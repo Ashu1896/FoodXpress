@@ -1,0 +1,205 @@
+<resources>
+    <string name="foodxpress">FoodXpress</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="pnr_number">PNR Number</string>
+    <string name="enter_pnr_number">Enter PNR Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp">OTP</string>
+    <string name="confirm">Confirm</string>
+    <string name="state">State</string>
+    <string name="station">Station</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="todo">TODO</string>
+    <string name="brindavan">Brindavans</string>
+    <string name="madhuvan_hotel">Madhuvan Hotel</string>
+    <string name="wah_ji_wah">Wah-Ji-Wah</string>
+    <string name="chawlas">Chawlas</string>
+    <string name="sigri">SIGRI</string>
+    <string name="kathi_junction">Kathi Junction</string>
+    <string name="moti_mahal">Moti Mahal</string>
+    <string name="punchvari_gaurav">Punchvari Gaurav</string>
+    <string name="list_of_restaurant">List Of Restaurant </string>
+    <string name="previous_item">Previous Item</string>
+    <string name="order_item">Order Item</string>
+    <string name="next_item">Next Item</string>
+    <string name="increase_order">Increase Item</string>
+    <string name="submit_order">Submit Item</string>
+    <string name="decrease_order">Decrease Item</string>
+    <string name="list">List</string>
+    <string name="thankyou">Thank You</string>
+    <string name="close_app">Close App</string>
+    <string name="start_payment_button">Payment</string>
+    <string name="make_payment_button">Make Payment</string>
+    <string name="chicken_masala">Chicken Masala</string>
+    <string name="mutton_korma">Mutton Korma</string>
+    <string name="chinese">Chinese</string>
+    <string name="paneer_tikka">Paneer Tikka</string>
+    <string name="burger">Burger</string>
+    <string name="thali">Thali</string>
+    <string name="chicken_biryani">Chicken Biryani</string>
+    <string name="main_course">Main Course</string>
+    <string name="category">Category</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+    <string name="modify_order">Modify Order</string>
+    <string name="order">Order</string>
+    <string name="category">Category</string>
+
+    <string-array name="select_state">
+        <item>Select State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telagana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+
+    <string-array name="select_station">
+        <item>Select Station</item>
+        <item>Agra Fort(AF)</item>
+        <item>Agra Cantt.(AGC)</item>
+        <item>Ahmedabad(ADI)</item>
+        <item>Ajmer(AII)</item>
+        <item>Allahabad(ALD)</item>
+        <item>Ambala Cantt(UMB).</item>
+        <item>Amritsar(ASR)</item>
+        <item>Anuppur(APR)</item>
+        <item>Azamgarh(AMH)</item>
+        <item>Ballia(BUI)</item>
+        <item>Bandra(T)(BDTS)</item>
+        <item>Bangalore City(SBC)</item>
+        <item>Bangalore Cantt.(BNC)</item>
+        <item>Baranui Jn.(BJU)</item>
+        <item>Betul(BZU)</item>
+        <item>Bhavnagar(T)(BVC)</item>
+        <item>Bhopal(BPL)</item>
+        <item>Bhubaneswar(BBS)</item>
+        <item>Bhuj(BHUJ)</item>
+        <item>Bhusaval(BSL)</item>
+        <item>Bikaner(BKN)</item>
+        <item>Bilaspur Jn.(BSP)</item>
+        <item>Bina(BINA)</item>
+        <item>Bakaro Steel City(BKSC)</item>
+        <item>Buxar(BXR)</item>
+        <item>Chandigarh(CDG)</item>
+        <item>Chennai Central(MAS)</item>
+        <item>Chennai Egmore(MS)</item>
+        <item>Chhapra(CPR)</item>
+        <item>Chhindwara(CWA)</item>
+        <item>Chopan(CPU)</item>
+        <item>Chunar(CAR)</item>
+        <item>Coimbatore Jn.(CBE)</item>
+        <item>Cuttack(CTC)</item>
+        <item>Dadar(DR)</item>
+        <item>Damoh(DMO)</item>
+        <item>Darbhanga(DBG)</item>
+        <item>Dehradun(DDN)</item>
+        <item>Dhanbad(DHN)</item>
+        <item>Durg(DURG)</item>
+        <item>Ernakulam Jn.(ERS)</item>
+        <item>Firozpur(FZP)</item>
+        <item>Gaya(GAYA)</item>
+        <item>Gondia(G)</item>
+        <item>Gorakhpur(GKP)</item>
+        <item>Gurgaon(GGN)</item>
+        <item>Guwahati(GHY)</item>
+        <item>Gwalior(GWL)</item>
+        <item>Hajipur(HJP)</item>
+        <item>Hapa(HAPA)</item>
+        <item>Haridwar(HW)</item>
+        <item>Howrah(HWH)</item>
+        <item>Hubli(UBL)</item>
+        <item>Hyderabad(HYB)</item>
+        <item>Indore(INDB)</item>
+        <item>Itarsi(ET)</item>
+        <item>Jabalpur(JBP)</item>
+        <item>Jagdalpur(JDB)</item>
+        <item>Jaipur(JP)</item>
+        <item>Jaisalmer(JSM)</item>
+        <item>Jammu Tawi(JAT)</item>
+        <item>Jamnagar(JAM)</item>
+        <item>Jhansi(JHS)</item>
+        <item>Jodhpur(JU)</item>
+        <item>Kanniyakumari(CAPE)</item>
+        <item>Kanpur Central(CNB)</item>
+        <item>Katni(KTE)</item>
+        <item>Katni Murwara(KMZ)</item>
+        <item>Kochuveli(KCVL)</item>
+        <item>Kolkata(KOAA)</item>
+        <item>Kota(KOTA)</item>
+        <item>Lokmanya Tilak(T)(LTT)</item>
+        <item>Lucknow(LJN/LKO)</item>
+        <item>Madgaon(Goa)(MAO)</item>
+        <item>Madurai Jn.(MDU)</item>
+        <item>Malda Town(MLDT)</item>
+        <item>Mangalore(MAJN)</item>
+        <item>Manmad(MMR)</item>
+        <item>Mathura(MTJ)</item>
+        <item>Mughal Sarai(MGS)</item>
+        <item>Mumbai Central(BCT)</item>
+        <item>Mumbai CST(CSTM)</item>
+        <item>Mysore(MYS)</item>
+        <item>Nagpur(NGP)</item>
+        <item>Nainpur(NIR)</item>
+        <item>New Delhi(NDLS)</item>
+        <item>Nizamuddin(NZM)</item>
+        <item>Okha(OKHA)</item>
+        <item>Patna(PNBE)</item>
+        <item>Porbandar(PBR)</item>
+        <item>Pune Jn.(PUNE)</item>
+        <item>Puri(PURI)</item>
+        <item>Raipur(R)</item>
+        <item>Rajendranagar(RJQ)</item>
+        <item>Rajkot(RJT)</item>
+        <item>Ranchi(RNC)</item>
+        <item>Raxaul(RXL)</item>
+        <item>Secunderabad(SC)</item>
+        <item>Shimla(SML)</item>
+        <item>Siliguri(SGUJ)</item>
+        <item>Siliguri Town(SGUT)</item>
+        <item>Surat(ST)</item>
+        <item>Tatanagar(TATA)</item>
+        <item>Thiruvanthapuram(TVC)</item>
+        <item>Tuticorin(TN)</item>
+        <item>Udaipur City(UDZ)</item>
+        <item>Vadodara(BRC)</item>
+        <item>Varanasi(BSB)</item>
+        <item>Vasco-Da-Gama(VSG)</item>
+        <item>Vijayawada(BZA)</item>
+        <item>Visakhapatnam(VSKP)</item>
+        <item>Yesvantpur(YPR)</item>
+
+
+    </string-array>
+    <string name="title_activity_home_drawer">home_drawer</string>
+</resources>

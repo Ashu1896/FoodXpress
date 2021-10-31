@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#fff</color>
+    <color name="btnBackground">#ABB7B7</color>
+    <color name="staffLoginBackground">#eee</color>
+
+    <!-- Desk Status Color -->
+    <color name="status0">#278</color>
+    <color name="status1">#EC644B</color>
+    <color name="status2">#00B16A</color>
+
+    <!-- CREATE A COLOR ARRAY IN COLORS XML -->
+    <color name="btnOrderDarker">#19694d</color>
+    <color name="btnOrderDark">#218c67</color>
+    <color name="btnOrderPrimary">#2ab081</color>
+    <color name="btnOrderLight">#54BF9A</color>
+
+    <!-- CREATE A COLOR ARRAY IN COLORS XML -->
+    <color name="btnStaffDarker">#090909</color>
+    <color name="btnStaffDark">#ad3426</color>
+    <color name="btnStaffPrimary">#0A1C65</color>
+    <color name="btnStaffLight">#e06659</color>
+
+    <integer-array name="btnOrderTheme">
+        <item>@color/btnOrderDarker</item>
+        <item>@color/btnOrderDark</item>
+        <item>@color/btnOrderPrimary</item>
+        <item>@color/btnOrderLight</item>
+    </integer-array>
+
+    <integer-array name="btnStaffTheme">
+        <item>@color/btnStaffDarker</item>
+        <item>@color/btnStaffDark</item>
+        <item>@color/btnStaffPrimary</item>
+        <item>@color/btnStaffLight</item>
+    </integer-array>
+
+</resources>

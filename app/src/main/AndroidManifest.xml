@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.foodxpress">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/foodxpress"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".home_drawer"
+            android:label="@string/title_activity_home_drawer"
+            android:theme="@style/AppTheme.NoActionBar"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".HomeActivity"
+            tools:ignore="MissingClass" />
+        <activity android:name=".home"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".app_bar_home"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".content_home"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".nav_header_home"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".MainActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".VerifyPhoneActivity"
+            tools:ignore="Instantiatable">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".VerifyOTP"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".Locality"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".Restaurant1"
+            tools:ignore="Instantiatable" />
+    </application>
+
+</manifest>
